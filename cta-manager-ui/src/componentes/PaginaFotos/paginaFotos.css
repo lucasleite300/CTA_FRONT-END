@@ -1,0 +1,13 @@
+.setas{
+    background-color: rgba(0, 0, 0, 0.51);
+    border-radius: 5px;
+    height: 100px;
+}
+.carousel-item{
+    width: 100%;
+    padding: 20px;
+}
+
+.texto-fotos{
+    padding: 15px;
+}
